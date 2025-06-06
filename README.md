@@ -64,15 +64,50 @@ I'm a final-year engineering student with a passion for leveraging **Artificial 
 
 ## 🚀 Key Projects
 
-| Project | Description |
-|--------|-------------|
-| **OCR-ID Card Parser** | Flask app to extract Aadhaar/PAN details using OCR and regex |
-| **Yield Vision** | Remote sensing + ML to help predict crop yields for smart farming |
-| **Prep Genius** | GenAI-based platform to help students prepare for tech placements |
-| **Fraud Detection System** | Used XGBoost, Random Forest, Logistic Regression to flag anomalies |
-| **Rule Recommender** | ML + GenAI system to optimize reconciliation rule execution |
-| **Fertilizer Recommender** | Suggests fertilizer based on NPK, humidity, and crop info |
-| **F1 Overtake Predictor** | Advanced analytics using F1 APIs to detect overtaking opportunities |
+### 🧠 AI & ML Systems
+
+- 🔍 **OCR-ID Card Parser**  
+  Extracts Aadhaar and PAN card details using Flask, OCR.Space API, and regex parsing.
+
+- 🧠 **Credit Card Fraud Detection**  
+  Built models using XGBoost, Random Forest, and Logistic Regression to detect transaction anomalies.
+
+- 🧮 **Rule Recommender for Reconciliation**  
+  Used clustering, Apriori, and ML to optimize rule execution orders in financial data reconciliation.
+
+- 🌾 **Yield Vision**  
+  Combined SAR and NDVI data using remote sensing and ML to predict agricultural crop yields.
+
+---
+
+### 🤖 GenAI & NLP Projects
+
+- 🎯 **Prep Genius**  
+  A GenAI-based interview training platform that evaluates confidence via facial expression analysis and gives personalized feedback.
+
+- 🧑‍🎓 **Bidirectional Translator (Bengali ↔ English)**  
+  Developed a transformer-based encoder-decoder translation model with fine-tuning for Indian languages.
+
+---
+
+### 🌿 Domain-Specific Apps
+
+- 🌱 **Fertilizer Recommendation System**  
+  Suggests fertilizers based on NPK levels, humidity, soil type, and crop type using classification models.
+
+- 🏎️ **F1 Overtake Predictor**  
+  Uses F1 API data and ML models to detect potential overtaking moments during races.
+
+---
+
+### 🌐 Web & Backend Tools
+
+- 🔧 **Document Scanner Web App**  
+  A Flask-based application to scan Aadhaar/PAN cards and extract data using OCR and regex.
+
+---
+
+> 💡 Most of these projects are available on my [GitHub profile](https://github.com/PARTH-BRAMHECHA), complete with documentation, code, and demos.
 
 ---
 
