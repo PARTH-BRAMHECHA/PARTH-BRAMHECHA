@@ -125,7 +125,7 @@ I'm a final-year engineering student with a passion for leveraging **Artificial 
 I'm always excited to collaborate on innovative projects or discuss the latest in AI and ML. Reach out via:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parthbramhecha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32px"/></a>
+  <a href="https://www.linkedin.com/in/parth-bramhecha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32px"/></a>
    
   <a href="https://github.com/PARTH-BRAMHECHA"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="32px"/></a>
    
